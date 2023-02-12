@@ -1,2 +1,5 @@
 # RomanNumerals
-A simple program in Java that convert Roman Characters to number and convert numbers into Roman Characters
+A simple program in Java.
+the class RomanNumeralsBis convert Roman Characters to number 
+the class ReversRomanNumerals convert numbers into Roman Characters
+
